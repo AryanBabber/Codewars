@@ -1,3 +1,3 @@
-function even_or_odd(number) {
+function evenOrOdd(number) {
 	return number % 2 == 0 ? "Even" : "Odd";
 }

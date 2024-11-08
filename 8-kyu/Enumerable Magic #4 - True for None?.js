@@ -1,3 +1,3 @@
 function none(arr, fun) {
-	return !arr.every(fun());
+	return !arr.some(fun);
 }
